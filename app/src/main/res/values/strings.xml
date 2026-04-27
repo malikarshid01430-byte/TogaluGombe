@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TogaluGombe</string>
+    <string name="scan_puppet">Scan Puppet</string>
+    <string name="puppet_gallery">Puppet Gallery</string>
+</resources>
